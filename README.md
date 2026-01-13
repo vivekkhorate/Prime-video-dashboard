@@ -1,7 +1,7 @@
-# 📊 Amazon Prime Video Dashboard – Power BI
+# 📊 Prime Video Dashboard – Power BI
 
-This repository contains an **interactive Power BI dashboard** built using the **Amazon Prime Video dataset**.  
-The dashboard provides insights into content distribution, genres, ratings, countries, and release trends of Movies and TV Shows available on Amazon Prime Video.
+This repository contains an **interactive Power BI dashboard** built using the ** Prime Video dataset**.  
+The dashboard provides insights into content distribution, genres, ratings, countries, and release trends of Movies and TV Shows available on Prime Video.
 
 ---
 
