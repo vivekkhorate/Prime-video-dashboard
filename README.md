@@ -89,7 +89,8 @@ These filters allow dynamic exploration of the dataset.
 ## 🙌 Author
 
 **Vivek Khorate**  
-📧 Aspiring Data Analyst                 
+📧 Aspiring Data Analyst      
+🔗 Live Demo: *(https://app.powerbi.com/view?r=eyJrIjoiY2FmNGFhZjAtOTIxOS00ZDIxLWI2NWEtNDNkNmI2NGJjMzlmIiwidCI6IjcwNjJiZWJiLWIxOGEtNDZlMi05MjhmLTQyZDJkMTMzMTI3ZSJ9)*
 🔗 LinkedIn: *(https://www.linkedin.com/in/vivek-khorate-329b25296/)*
 
 ---
